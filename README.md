@@ -1,6 +1,8 @@
 # 3D Gaussian Splatting Super-Resolution Challenge - Hackathon Codebase
 
 **Comprehensive consolidation of all four hackathon iterations (H1, H2, H3, H4)** for solving the 3D Gaussian Splatting (3DGS) super-resolution challenge.
+
+
 Courtesy: EE5178: Prof. Kaushik Mitra
 
 ## Overview
